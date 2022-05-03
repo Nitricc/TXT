@@ -1,0 +1,5 @@
+1. Patience
+2. Kindness
+3. JS Knowledge
+4. Writing autotests
+5. SomethingElse

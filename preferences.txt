@@ -1,0 +1,5 @@
+        "Любимый фильм":"Avengers: Infinity War",
+        "Любимый сериал":"The Big Bang Theory",
+        "Любимая еда":"Burgers",
+        "Любимое время года":"The Summer",
+	"Страна которую хотел бы посетить":"Norway"
